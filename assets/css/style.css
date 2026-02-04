@@ -1,0 +1,4 @@
+body { display:flex; font-family:Arial }
+.sidebar { width:200px; background:#222; color:white; padding:20px }
+.sidebar a { color:white; display:block; margin:10px 0 }
+.main { padding:20px; width:100% }
