@@ -7,3 +7,4 @@ A web-based Task Manager Agent system built using pure PHP and MySQL with HTML, 
 
 ## Progress Log
 - Day 1: Created project folder structure and designed database schema.
+- Day 2: Login & task features
